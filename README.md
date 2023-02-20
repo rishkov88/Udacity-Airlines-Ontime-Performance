@@ -72,4 +72,4 @@ Regarding the rate of delay and rate of cancellation, some carriers exceed 4%.
 
 ## Key Insights for Presentation
 
-For the overview, I'm focusing on features that have more to do with timelines. First I present the distribution of delays and then I show which airlines have the most average delays. Next, And finally, I show how the days of the week influence the delays. 
+For the overview, I'm focusing on features that have more to do with timelines. First I present the distribution of delays and then I show which airlines have the most average delays. Next, And finally, I show how the days of the week influence the delays.
